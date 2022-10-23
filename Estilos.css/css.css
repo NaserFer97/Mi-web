@@ -33,6 +33,7 @@ body{
     background-position: center;
     position: relative;
     
+    
 }
 
 .hero .container{
@@ -94,6 +95,8 @@ body{
     color: var(--color-primary);
     text-decoration: none;
     border-radius: 40px;
+    
+    
 
 }
 
@@ -404,3 +407,4 @@ img{
         border: 0;
     }
 }
+
